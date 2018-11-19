@@ -1,7 +1,7 @@
 import React from "react";
 
-import FormComponent from "../FormComponent/FormComponent"
-import Dasboard from "../Dasboard/Dasboard"
+import FormComponent from "../FormComponent"
+import Dasboard from "../Dasboard"
 
 export default class ToDo extends React.Component{
 	constructor(props){
